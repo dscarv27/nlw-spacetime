@@ -1,18 +1,9 @@
 import fastify from 'fastify'
-import { PrismaClient } from '@prisma/client'
+import { memoriesRoutes } from './routes/memories'
 
 const app = fastify()
-const prisma = new PrismaClient()
 
-// HTTP METHODS: GET: listar, POST: criar, PUT: atualizar,
-// PATCH: atualizar uma informação específica, DELETE: deletar
-// API RESTFUL: existem padrões a serem seguidos
-
-app.get('/users', async () => {
-  const users = await prisma.user.findMany()
-
-  return users
-})
+app.register(memoriesRoutes)
 
 app
   .listen({
