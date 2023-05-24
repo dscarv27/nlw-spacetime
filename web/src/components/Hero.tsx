@@ -3,7 +3,7 @@ import nlwLogo from '../assets/nlw-spacetime-logo.svg'
 
 import Link from 'next/link'
 
-export function Hero(){
+export function Hero() {
   return (
     <div className="space-y-5">
       <Image src={nlwLogo} alt="NLW Spacetime" />
