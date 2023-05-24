@@ -53,5 +53,5 @@ Desenvolvimento completo da aplicação envolvendo back-end e front-end, em que 
 
 ## Contato
 E-mail: [**dscarv27@gmail.com**](mailto:dscarv27@gmail.com) <br>
-LinkedIn: [dscarv27](linkedin.com/in/dscarv27) <br>
-Twitter: [dscarv27](twitter.com/dscarv27) <br>
+LinkedIn: [**dscarv27**](linkedin.com/in/dscarv27) <br>
+Twitter: [**dscarv27**](twitter.com/dscarv27) <br>
