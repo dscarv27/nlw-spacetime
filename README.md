@@ -8,12 +8,12 @@
 * [Contatos](#contato)
 
 ## Sobre a aplicação
-Aplicação desenvolvida durante o evento NLW Spacetime, promovido pela Rocketseat. <br>
+Aplicação desenvolvida durante o evento NLW Spacetime, promovido pela Rocketseat. <br> <br>
 Desenvolvimento completo da aplicação envolvendo back-end e front-end, em que é possível cadastrar lembranças/memórias em uma linha do tempo e possuindo autenticação pelo Github. <br>
 
 ## Tecnologias
 * Back-end 
-  * __Node__+__Fastify__+_Typescript__
+  * __Node__+__Fastify__+__Typescript__
   * __Prisma ORM__ com SQLite
   * __Zod__ para validação de dados
 * Front-end 
@@ -35,7 +35,7 @@ Desenvolvimento completo da aplicação envolvendo back-end e front-end, em que 
   $ npm run dev
   ```
   * Front-end
-    * Em .env.local, informe o ClientID.
+    * Em .env.local, informe o ClientID do Github.
   ```bash
   $ cd web
   $ npm i
@@ -52,6 +52,6 @@ Desenvolvimento completo da aplicação envolvendo back-end e front-end, em que 
   * Layout responsível
 
 ## Contato
-E-mail: [**dscarv27@gmail.com**](mailto:dscarv27@gmail.com)
-LinkedIn: [dscarv27](linkedin.com/in/dscarv27)
-Twitter: [dscarv27](twitter.com/dscarv27)
+E-mail: [**dscarv27@gmail.com**](mailto:dscarv27@gmail.com) <br>
+LinkedIn: [dscarv27](linkedin.com/in/dscarv27) <br>
+Twitter: [dscarv27](twitter.com/dscarv27) <br>
