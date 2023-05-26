@@ -36,8 +36,9 @@ Desenvolvimento completo da aplicação envolvendo back-end e front-end, em que 
   $ npm run dev
   ```
   * Front-end
-    * Renomeie example.txt para .env.local
+    * Renomeie example.txt para .env.local .
     * Em .env.local, informe o ClientID do Github.
+    * Em next.config.js, troque o IP pelo seu. 
   ```bash
   $ cd web
   $ npm i
