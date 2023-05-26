@@ -46,8 +46,8 @@ Desenvolvimento completo da aplicação envolvendo back-end e front-end, em que 
   ```
 
 ## Screenshots
-  * <img src=".github/nlw-spacetime-1">
-  * <img src=".github/nlw-spacetime-2">
+  * <img src=".github/nlw-spacetime-1.png">
+  * <img src=".github/nlw-spacetime-2.png">
 
 ## Próximas etapas
   * Selecionar data da memória
