@@ -28,6 +28,7 @@ Desenvolvimento completo da aplicação envolvendo back-end e front-end, em que 
   $ git clone https://github.com/dscarv27/nlw-spacetime
   ```
   * Back-end
+    * Renomeie example.txt para .env .
     * Em .env, informe o ClientID e o Client Secret do Github.
   ```bash
   $ cd server
@@ -35,6 +36,7 @@ Desenvolvimento completo da aplicação envolvendo back-end e front-end, em que 
   $ npm run dev
   ```
   * Front-end
+    * Renomeie example.txt para .env.local
     * Em .env.local, informe o ClientID do Github.
   ```bash
   $ cd web
